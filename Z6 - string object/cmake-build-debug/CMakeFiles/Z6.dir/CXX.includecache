@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/School/FEI21/LETO/Programovacie techniky/Projekty/Z6/Polednak_Pavol_97012_zadanie06.cpp
+iostream
+-
+cstring
+-
+cassert
+-
+

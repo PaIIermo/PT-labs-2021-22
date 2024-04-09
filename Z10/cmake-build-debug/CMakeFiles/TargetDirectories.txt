@@ -1,0 +1,3 @@
+D:/School/FEI21/LETO/Programovacie techniky/Projekty/Z10/cmake-build-debug/CMakeFiles/Z10.dir
+D:/School/FEI21/LETO/Programovacie techniky/Projekty/Z10/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/School/FEI21/LETO/Programovacie techniky/Projekty/Z10/cmake-build-debug/CMakeFiles/rebuild_cache.dir

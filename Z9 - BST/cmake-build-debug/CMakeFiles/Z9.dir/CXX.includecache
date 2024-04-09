@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/School/FEI21/LETO/Programovacie techniky/Projekty/Z9/Polednak_Pavol_97012_zadanie09.cpp
+iostream
+-
+list
+-
+vector
+-
+map
+-
+exception
+-
+set
+-
+
